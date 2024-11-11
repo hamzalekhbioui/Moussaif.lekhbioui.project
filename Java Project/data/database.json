@@ -1,0 +1,385 @@
+[
+  {
+    "balance": 0.0
+  },
+  {
+    "balance": 0.0
+  },
+  {
+    "fullname": "lol",
+    "email": "lol@gmail.com",
+    "balance": 0.0,
+    "password": "07123e1f482356c415f684407a3b8723e10b2cbbc0b8fcd6282c49d37c9c1abc"
+  },
+  {
+    "username": "amine",
+    "fullname": "minox",
+    "email": "amine@gmail.com",
+    "dob": "2003-01-20",
+    "gender": "Male",
+    "phone": "0612458745",
+    "street": "952 av de dunkerque",
+    "city": "lomme",
+    "state": "jsp",
+    "balance": 0.0,
+    "postal": "59160",
+    "accountType": "Savings",
+    "idNumber": "AE123456",
+    "idType": "Driver’s License",
+    "password": "amine"
+  },
+  {
+    "username": "benzima",
+    "fullname": "karim benzima",
+    "email": "karim@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0615241542",
+    "street": "av haykarima",
+    "city": "Marseille",
+    "state": "jsp",
+    "balance": 0.0,
+    "postal": "5522",
+    "accountType": "Savings",
+    "idNumber": "ae25487",
+    "idType": "Driver’s License",
+    "password": "benzima"
+  },
+  {
+    "username": "user",
+    "fullname": "user user",
+    "email": "user@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0645127896",
+    "street": "jsp",
+    "city": "Paris",
+    "state": "jsp",
+    "balance": 0.0,
+    "postal": "jsp",
+    "accountType": "Savings",
+    "idNumber": "jsp",
+    "idType": "Driver’s License",
+    "password": "user",
+    "transactions": []
+  },
+  {
+    "username": "hwa",
+    "fullname": "hwa",
+    "email": "hwa@gmail.com",
+    "dob": "1999-01-20",
+    "gender": "Male",
+    "phone": "0612457896",
+    "street": "la",
+    "city": "Paris",
+    "state": "la",
+    "balance": 0.0,
+    "postal": "l",
+    "accountType": "Savings",
+    "idNumber": "l",
+    "idType": "Driver’s License",
+    "password": "hwa",
+    "transactions": []
+  },
+  {
+    "username": "omar",
+    "fullname": "omar",
+    "email": "omar@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0615487895",
+    "street": "j",
+    "city": "Paris",
+    "state": "j",
+    "balance": 0.0,
+    "postal": "j",
+    "accountType": "Savings",
+    "idNumber": "j",
+    "idType": "Driver’s License",
+    "password": "omar",
+    "transactions": []
+  },
+  {
+    "username": "skhft",
+    "fullname": "skhft",
+    "email": "skhft@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0612457896",
+    "street": "s",
+    "city": "Paris",
+    "state": "s",
+    "balance": 0.0,
+    "postal": "s",
+    "accountType": "Savings",
+    "idNumber": "s",
+    "idType": "Driver’s License",
+    "password": "skhft",
+    "transactions": []
+  },
+  {
+    "username": "ki",
+    "fullname": "ki",
+    "email": "ki@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0612345678",
+    "street": "k",
+    "city": "Paris",
+    "state": "k",
+    "balance": 0.0,
+    "postal": "k",
+    "accountType": "Savings",
+    "idNumber": "k",
+    "idType": "Driver’s License",
+    "password": "ki",
+    "transactions": []
+  },
+  {
+    "username": "ll",
+    "fullname": "ll",
+    "email": "ll@gmail.com",
+    "dob": "2000-01-20",
+    "gender": "Male",
+    "phone": "0612345678",
+    "street": "ll",
+    "city": "Paris",
+    "state": "ll",
+    "balance": 0.0,
+    "postal": "ll",
+    "accountType": "Savings",
+    "idNumber": "ll",
+    "idType": "Driver’s License",
+    "password": "ll",
+    "transactions": []
+  },
+  {
+    "username": "ham",
+    "fullname": "ham",
+    "email": "ham@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0612457898",
+    "street": "hd",
+    "city": "Paris",
+    "state": "hf",
+    "balance": 0.0,
+    "postal": "h",
+    "accountType": "Savings",
+    "idNumber": "654",
+    "idType": "Driver’s License",
+    "password": "0eccfe263668d171bd19b7d491c3ef5c43559e6d3acf697ef37596181c6fdf4c",
+    "transactions": []
+  },
+  {
+    "username": "jiji",
+    "fullname": "jiji",
+    "email": "jj@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0615487854",
+    "street": "k",
+    "city": "Paris",
+    "state": "k",
+    "balance": 0.0,
+    "postal": "k",
+    "accountType": "Savings",
+    "idNumber": "k",
+    "idType": "Driver’s License",
+    "password": "a276551d336c604f58a0b5694d14550877c55379d1961644bc6942386c756a25",
+    "transactions": []
+  },
+  {
+    "username": "java",
+    "fullname": "java",
+    "email": "java@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0615487858",
+    "street": "56",
+    "city": "Paris",
+    "state": "65",
+    "balance": 0.0,
+    "postal": "65",
+    "accountType": "Savings",
+    "idNumber": "65",
+    "idType": "Driver’s License",
+    "password": "38a0963a6364b09ad867aa9a66c6d009673c21e182015461da236ec361877f77",
+    "transactions": []
+  },
+  {
+    "username": "javac",
+    "fullname": "javac",
+    "email": "javac@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0612345687",
+    "street": "jd",
+    "city": "Paris",
+    "state": "jf",
+    "balance": 0.0,
+    "postal": "jf",
+    "accountType": "Savings",
+    "idNumber": "j",
+    "idType": "Driver’s License",
+    "password": "ee8a8e3c3d1cded54843e2b0d37ca37850d6fba4889acb1e5825e30a00d4b3d2",
+    "transactions": [
+      {
+        "date": "Nov 11, 2024, 1:53:44 AM",
+        "type": "Withdraw",
+        "amount": 15.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:54:41 AM",
+        "type": "Deposit",
+        "amount": 545.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:54:55 AM",
+        "type": "Withdraw",
+        "amount": 454.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:00 AM",
+        "type": "Deposit",
+        "amount": 44888.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:07 AM",
+        "type": "Deposit",
+        "amount": 44888.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:12 AM",
+        "type": "Deposit",
+        "amount": 448885.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:17 AM",
+        "type": "Withdraw",
+        "amount": 448885.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:29 AM",
+        "type": "Withdraw",
+        "amount": 10000.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:37 AM",
+        "type": "Withdraw",
+        "amount": 100000.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:40 AM",
+        "type": "Withdraw",
+        "amount": 10000.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:44 AM",
+        "type": "Withdraw",
+        "amount": 10000.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:56:52 AM",
+        "type": "Withdraw",
+        "amount": 4601.0
+      },
+      {
+        "date": "Nov 11, 2024, 2:13:48 AM",
+        "type": "Deposit",
+        "amount": 44.0
+      },
+      {
+        "date": "Nov 11, 2024, 11:49:28 AM",
+        "type": "Deposit",
+        "amount": 125477.0
+      },
+      {
+        "date": "Nov 11, 2024, 11:49:40 AM",
+        "type": "Withdraw",
+        "amount": 1111.0
+      }
+    ]
+  },
+  {
+    "username": "hway",
+    "fullname": "hway",
+    "email": "hway@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0612345678",
+    "street": "fd",
+    "city": "Paris",
+    "state": "f",
+    "balance": 0.0,
+    "postal": "f",
+    "accountType": "Savings",
+    "idNumber": "f",
+    "idType": "Driver’s License",
+    "password": "1da6913834857ff27892a9c0adc1c3f90783cc61332c49bba90847a65a4fc21b",
+    "transactions": [
+      {
+        "date": "Nov 11, 2024, 1:57:49 AM",
+        "type": "Deposit",
+        "amount": 15.0
+      },
+      {
+        "date": "Nov 11, 2024, 1:57:53 AM",
+        "type": "Deposit",
+        "amount": 15.0
+      }
+    ]
+  },
+  {
+    "username": "tfo",
+    "fullname": "tfo",
+    "email": "113b655646998e11e6c4def1a4d50b80c49b1efee1547e3d1755ff0cf94cd822",
+    "dob": "tfo@gmail.com",
+    "gender": "20/01/2000",
+    "phone": "0612345678",
+    "street": "kdj",
+    "city": "Paris",
+    "state": "jf",
+    "balance": 0.0,
+    "postal": "fjf",
+    "accountType": "Savings",
+    "idNumber": "jf",
+    "idType": "Driver’s License",
+    "password": "tfo",
+    "transactions": [
+      {
+        "date": "Nov 11, 2024, 2:14:59 AM",
+        "type": "Deposit",
+        "amount": 15887.0
+      },
+      {
+        "date": "Nov 11, 2024, 2:15:06 AM",
+        "type": "Deposit",
+        "amount": 15887.0
+      },
+      {
+        "date": "Nov 11, 2024, 2:15:13 AM",
+        "type": "Withdraw",
+        "amount": 15887.0
+      }
+    ]
+  },
+  {
+    "username": "tfo",
+    "fullname": "tfo",
+    "email": "tfo@gmail.com",
+    "dob": "20/01/2000",
+    "gender": "Male",
+    "phone": "0612345678",
+    "street": "kdj",
+    "city": "Paris",
+    "state": "jf",
+    "balance": 0.0,
+    "postal": "fjf",
+    "accountType": "Savings",
+    "idNumber": "jf",
+    "idType": "Driver’s License",
+    "password": "113b655646998e11e6c4def1a4d50b80c49b1efee1547e3d1755ff0cf94cd822",
+    "transactions": []
+  }
+]
